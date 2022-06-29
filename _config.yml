@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Chris Carr's Deep Learning Blog
-description: 
-github_username: chrisdavidcarr
+title: Deep Learning by Chris Carr
+description: Chris Carr's Deep Learning Blog
+github_username: carr997
 
 # Email and twitter are optional:
 email:
